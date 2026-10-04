@@ -1,2 +1,2 @@
 # ArcairaAI
-A community-driven AI platform for creating and bringing characters to life.
+Create characters that remember your conversations, your stories, and the details that make them feel alive.
